@@ -1,2 +1,2 @@
 # rsschool-cv  
-[My CV link](https://yana-lesina.github.io/rsschool-cv/cv "My CV link")
+[My CV link]: https://Yana-Lesina.github.io/rsschool-cv/ "My CV link"
